@@ -11,18 +11,6 @@ This project demonstrates a login process using Selenium WebDriver and TestNG, w
 -Selenium WebDriver
 -TestNG Framework
 
-# Project Directory Structure
-
-├── src
-│   ├── main
-│   │   └── java
-│   │       └── LoginTest.java
-│   └── test
-│       └── java
-│           └── testng.xml
-├── pom.xml
-└── README.md
-
 # Troubleshooting:
 
 -WebDriver Not Found: Ensure that the path to the WebDriver is correct and that it matches your browser version.
